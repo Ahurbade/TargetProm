@@ -9,7 +9,7 @@ public class TestController
 
     @GetMapping("/getMsg")
     public String getMessage(){
-        return "SuccessFully Set Up";
+        return "Build jenkins Set up done";
     }
 
 }
